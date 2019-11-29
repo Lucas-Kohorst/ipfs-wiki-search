@@ -1,10 +1,10 @@
 {
-    "name": "ipfs-wiki",
+    "name": "ipfs-wiki-search",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://lucas-kohorst.github.io/ipfs-wiki",
+    "homepage": "https://lucas-kohorst.github.io/ipfs-wiki-search",
     "repository": {
-        "url": "https://lucas-kohorst.github.io/ipfs-wiki"
+        "url": "https://lucas-kohorst.github.io/ipfs-wiki-search"
     },
     "dependencies": {
         "@material-ui/core": "^4.7.0",
