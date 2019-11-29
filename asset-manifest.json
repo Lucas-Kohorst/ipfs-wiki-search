@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ipfs-wiki/static/css/main.b100e6da.chunk.css",
-    "main.js": "/ipfs-wiki/static/js/main.d2b07d6c.chunk.js",
-    "main.js.map": "/ipfs-wiki/static/js/main.d2b07d6c.chunk.js.map",
-    "runtime-main.js": "/ipfs-wiki/static/js/runtime-main.8c8b2260.js",
-    "runtime-main.js.map": "/ipfs-wiki/static/js/runtime-main.8c8b2260.js.map",
-    "static/js/2.ce60e2f2.chunk.js": "/ipfs-wiki/static/js/2.ce60e2f2.chunk.js",
-    "static/js/2.ce60e2f2.chunk.js.map": "/ipfs-wiki/static/js/2.ce60e2f2.chunk.js.map",
-    "index.html": "/ipfs-wiki/index.html",
-    "precache-manifest.356161264e49bac69acfbad1a76f3a36.js": "/ipfs-wiki/precache-manifest.356161264e49bac69acfbad1a76f3a36.js",
-    "service-worker.js": "/ipfs-wiki/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/ipfs-wiki/static/css/main.b100e6da.chunk.css.map",
-    "static/media/wikiLogo.png": "/ipfs-wiki/static/media/wikiLogo.263e4ab3.png"
+    "main.css": "/ipfs-wiki-search/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ipfs-wiki-search/static/js/main.1a17f5ed.chunk.js",
+    "main.js.map": "/ipfs-wiki-search/static/js/main.1a17f5ed.chunk.js.map",
+    "runtime-main.js": "/ipfs-wiki-search/static/js/runtime-main.9020c1c2.js",
+    "runtime-main.js.map": "/ipfs-wiki-search/static/js/runtime-main.9020c1c2.js.map",
+    "static/js/2.b6006e08.chunk.js": "/ipfs-wiki-search/static/js/2.b6006e08.chunk.js",
+    "static/js/2.b6006e08.chunk.js.map": "/ipfs-wiki-search/static/js/2.b6006e08.chunk.js.map",
+    "index.html": "/ipfs-wiki-search/index.html",
+    "precache-manifest.7332c12dcd54ab65af99986c0461360c.js": "/ipfs-wiki-search/precache-manifest.7332c12dcd54ab65af99986c0461360c.js",
+    "service-worker.js": "/ipfs-wiki-search/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ipfs-wiki-search/static/css/main.b100e6da.chunk.css.map",
+    "static/media/wikiLogo.png": "/ipfs-wiki-search/static/media/wikiLogo.263e4ab3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c8b2260.js",
-    "static/js/2.ce60e2f2.chunk.js",
+    "static/js/runtime-main.9020c1c2.js",
+    "static/js/2.b6006e08.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.d2b07d6c.chunk.js"
+    "static/js/main.1a17f5ed.chunk.js"
   ]
 }
