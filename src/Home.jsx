@@ -43,7 +43,7 @@ class Home extends React.Component {
         } else {
           this.setState({
             border: "2px solid red",
-            errorMessage: "Could not find " + query
+            errorMessage: "Either loading or could not find " + query
           })
         }
       })
@@ -51,7 +51,7 @@ class Home extends React.Component {
       .then(data => {
         var parser = new DOMParser();
         var doc = parser.parseFromString(data, "text/html");
-        var wiki = this._getElementByXpath(doc, "/html/body/div[1]/div/p[2]")
+        var wiki = this._getElementByXpath(doc, "/html/body/div[1]/div/p[2]") || this._getElementByXpath(doc, "/html/body/div[1]"),
         console.log(wiki)
         this.setState({
           wiki: wiki,

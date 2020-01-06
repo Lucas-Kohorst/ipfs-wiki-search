@@ -2,7 +2,7 @@
     "name": "ipfs-wiki-search",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://lucas-kohorst.github.io/ipfs-wiki-search",
+    "homepage": "./",
     "repository": {
         "url": "https://lucas-kohorst.github.io/ipfs-wiki-search"
     },
